@@ -1,3 +1,0 @@
-[27-Feb-2019 21:28:07 UTC] PHP Warning:  exif_read_data(Attachment_1551259439.jpeg): Illegal IFD size in /home/beetempc/img.beetemp.com/vfm-admin/class/class.imageserver.php on line 184
-[28-Feb-2019 19:28:27 UTC] PHP Warning:  exif_read_data(Attachment_1551259439.jpeg): Illegal IFD size in /home/beetempc/img.beetemp.com/d/vfm-admin/class/class.imageserver.php on line 184
-[25-Oct-2019 03:50:15 UTC] PHP Warning:  exif_read_data(004.jpg): Incorrect APP1 Exif Identifier Code in /home/beetempc/img.beetemp.com/d/vfm-admin/class/class.imageserver.php on line 184
